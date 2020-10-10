@@ -1,0 +1,23 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "An e-commerce web app created using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shjdm/react-ecommerce-app.git"
+  },
+  "author": "Shajeed Miah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shjdm/react-ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/shjdm/react-ecommerce-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
